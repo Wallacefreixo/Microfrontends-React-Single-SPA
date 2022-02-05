@@ -1,4 +1,4 @@
-## Microfront-end em React com Single-SPA
+## Microfrontends em React com Single-SPA
 
 ### Tecnologias:
 
@@ -8,6 +8,6 @@
 - Library Components React by Wallace Freixo
 - Typescript
 
-### Executar cada micro front-end:
+### Executar cada Microfrontends:
 
 npm start
