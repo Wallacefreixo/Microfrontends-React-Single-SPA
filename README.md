@@ -10,4 +10,6 @@
 
 ### Executar cada Microfrontends:
 
-npm start
+Instalação pacotes: npm install
+
+Build: npm start
